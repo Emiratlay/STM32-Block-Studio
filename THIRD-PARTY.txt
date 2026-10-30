@@ -1,0 +1,25 @@
+﻿STM32 Blocks Studio kurulumuyla gelen üçüncü taraf yazılımlar
+=============================================================
+
+Bu yazılımlar STM32 Blocks Studio'nun parçası değildir; kendi lisanslarıyla
+dağıtılır ve değiştirilmeden paketlenmiştir. Yer kazanmak için derleyici
+paketinden kullanılmayan bileşenler çıkarılmıştır.
+
+xPack GNU Arm Embedded GCC 14.2.1-1.1 (tools\arm-gcc)
+  Lisans : GPL-3.0 ve ilgili GCC / Binutils / newlib lisansları
+  Kaynak : https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack
+
+GNU Make 4.4.1, libintl, libiconv (tools\bin)
+  Lisans : GPL-3.0 (Make), LGPL (libintl, libiconv)
+  Kaynak : https://www.gnu.org/software/make/
+           https://www.gnu.org/software/gettext/
+           https://www.gnu.org/software/libiconv/
+  Derleme: https://winlibs.com/ (MinGW-w64, Brecht Sanders)
+
+probe-rs 0.32.0 (tools\bin)
+  Lisans : MIT veya Apache-2.0
+  Kaynak : https://github.com/probe-rs/probe-rs
+
+ST-Link USB sürücüsü 2.2.0.0 (drivers\stlink)
+  Sahibi : STMicroelectronics; imzası değiştirilmemiştir.
+  Kaynak : https://www.st.com/en/development-tools/stsw-link009.html

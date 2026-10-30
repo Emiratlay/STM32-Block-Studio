@@ -1,0 +1,27 @@
+﻿STM32 Blocks Studio Kullanım Lisansı
+
+Telif hakkı (c) 2026 STM32 Blocks Studio. Tüm hakları saklıdır.
+
+1. Kullanım izni
+Bu yazılımı kişisel, eğitim ve ticari projelerinizde ücretsiz olarak
+kurabilir ve kullanabilirsiniz.
+
+2. Ürettiğiniz kod
+Yazılımla oluşturduğunuz projeler ve üretilen C kodu size aittir. Bunları
+dilediğiniz gibi kullanabilirsiniz.
+
+3. Kısıtlamalar
+Yazılımı veya kurulum dosyasını izin almadan yeniden dağıtamaz, satamaz,
+kiralayamaz ve değiştirilmiş sürümünü yayınlayamazsınız. Yürürlükteki
+mevzuatın izin verdiği durumlar dışında tersine mühendislik yapamazsınız.
+Bu kısıtlamalar bağlantı paylaşmanızı engellemez.
+
+4. Üçüncü taraf yazılımlar
+Kurulumla gelen derleyici, make, probe-rs ve ST-Link sürücüsü bu yazılımın
+parçası değildir ve bu lisansa tabi değildir. Her biri kendi lisansıyla
+dağıtılır; ayrıntılar THIRD-PARTY.txt dosyasındadır.
+
+5. Garanti reddi
+Yazılım "OLDUĞU GİBİ" sunulur; hiçbir garanti verilmez. Yazılımın veya
+ürettiği kodun kullanımından doğan zarar, donanım arızası ve veri kaybından
+yazar sorumlu tutulamaz.
