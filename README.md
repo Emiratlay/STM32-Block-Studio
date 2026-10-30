@@ -14,7 +14,7 @@ Blok diyagramı ──► main.c ──► derleme ──► .elf ──► prob
 
 ## İndir
 
-[**Son sürümü indir**](https://github.com/KULLANICI_ADIN/STM32STUDIOP/releases/latest)
+[**Son sürümü indir**](https://github.com/Emiratlay/STM32-Block-Studio/releases/tag/V0.3)
 
 `STM32-Blocks-Studio-<sürüm>-setup.exe` dosyasını indirip çalıştırın. Derleyici,
 `make`, `probe-rs` ve ST-Link sürücüsü kurulumla gelir. Ayrıca kurmanız gereken
